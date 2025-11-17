@@ -2,13 +2,13 @@
 
 1. A Diabetes Prediction Model is a machine learning system designed to predict whether a person is likely to have diabetes based on their health data. The model is trained using a dataset containing medical features such as:
 
-Glucose level
-Blood pressure
-Insulin level
-BMI (Body Mass Index)
-Age
-Pregnancies
-Skin thickness
+Glucose level,
+Blood pressure,
+Insulin level,
+BMI (Body Mass Index),
+Age,
+Pregnancies,
+Skin thickness and
 Diabetes pedigree function (family history)
 
 The system learns patterns from these features to classify individuals into Diabetic or Non-Diabetic categories.
@@ -27,15 +27,15 @@ This model helps in early diagnosis, risk assessment, and preventive healthcare,
 
 2. A Heart Disease Prediction Model is a machine learning system that predicts whether a person is at risk of heart disease based on clinical and lifestyle data. The model is trained on medical features such as:
 
-Age
-Gender
-Chest pain type
-Blood pressure
-Cholesterol level
-Resting ECG results
-Maximum heart rate
-Exercise-induced angina
-Fasting blood sugar
+Age,
+Gender,
+Chest pain type,
+Blood pressure,
+Cholesterol level,
+Resting ECG results,
+Maximum heart rate,
+Exercise-induced angina,
+Fasting blood sugar and
 ST depression & slope values
 
 The system learns patterns from these inputs and classifies individuals as “Heart Disease: Yes” or “No”.
