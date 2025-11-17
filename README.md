@@ -47,3 +47,8 @@ Model training using ML algorithms like Logistic Regression, Random Forest, SVM,
 Evaluation using accuracy, precision, recall, F1-score, and ROC-AUC
 Prediction for new patient data to assess risk
 This predictive model helps with early detection, clinical decision support, and preventive healthcare planning.
+
+
+3. The House Price Prediction project aims to estimate the selling price of residential properties using machine learning techniques. The model is trained on a dataset containing features such as number of bedrooms, square footage, location, age of the house, and other structural and neighborhood characteristics. After preprocessing the data (handling missing values, encoding categorical variables, scaling numerical features), various regression algorithms—such as Linear Regression, Random Forest, or Gradient Boosting—are applied to learn patterns in the housing market.
+
+The final model predicts house prices based on input features and helps in decision-making for buyers, sellers, and real estate stakeholders by providing accurate and data-driven price estimates.
